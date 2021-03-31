@@ -1,0 +1,14 @@
+.rootResult{
+    padding: 20px;
+    display: grid;
+    grid-template-columns:repeat(4, 1fr);
+    grid-gap: 20px;
+    background: white;
+    
+}
+
+.Alert{
+    width: auto;
+    text-align: center;
+    grid-column: 1/-1;
+}
