@@ -24,7 +24,7 @@ class Home extends Component {
           <Search handleResult={this.handleResult} />
         </div>
 
-        {this.state.visible ? <Result info={this.state.list} /> : null}
+        {this.state.visible ?  <Result info={this.state.list} /> : null}
       </>
     );
   }
