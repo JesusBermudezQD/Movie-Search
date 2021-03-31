@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Movie-Search/static/css/main.6d863f81.chunk.css",
+    "main.js": "/Movie-Search/static/js/main.d9128da2.chunk.js",
+    "main.js.map": "/Movie-Search/static/js/main.d9128da2.chunk.js.map",
+    "runtime-main.js": "/Movie-Search/static/js/runtime-main.9c24dda5.js",
+    "runtime-main.js.map": "/Movie-Search/static/js/runtime-main.9c24dda5.js.map",
+    "static/js/2.9a426210.chunk.js": "/Movie-Search/static/js/2.9a426210.chunk.js",
+    "static/js/2.9a426210.chunk.js.map": "/Movie-Search/static/js/2.9a426210.chunk.js.map",
+    "index.html": "/Movie-Search/index.html",
+    "static/css/main.6d863f81.chunk.css.map": "/Movie-Search/static/css/main.6d863f81.chunk.css.map",
+    "static/js/2.9a426210.chunk.js.LICENSE.txt": "/Movie-Search/static/js/2.9a426210.chunk.js.LICENSE.txt",
+    "static/media/Home.css": "/Movie-Search/static/media/avengers.859d085f.png",
+    "static/media/collage.8ac7141a.png": "/Movie-Search/static/media/collage.8ac7141a.png",
+    "static/media/sin.aeed043b.png": "/Movie-Search/static/media/sin.aeed043b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9c24dda5.js",
+    "static/js/2.9a426210.chunk.js",
+    "static/css/main.6d863f81.chunk.css",
+    "static/js/main.d9128da2.chunk.js"
+  ]
+}
